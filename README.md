@@ -6,7 +6,7 @@ Os conteúdos serão atualizados de acordo com a frequência de publicação dos
 
 ## Índice de artigos e seus códigos-fonte
 
--   Introdução e Configuração Inicial (/restful-api)
+-   Introdução e Configuração Inicial ([restful-api](/restful-api)))
 -   Recursos e Operações Básicas
 -   Listagem e Paginação Clássica
 -   Listagem e Paginação Otimizada
